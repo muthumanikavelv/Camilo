@@ -1,4 +1,7 @@
 # Camilo
+<img width="403" height="264" alt="image" src="https://github.com/user-attachments/assets/c6a1f8c1-fe38-4ada-b8f9-20e70c7cd05d" />
+
+
 A phishing domain detection tool that also allows you to safely view the website without actually visiting it. Built using Python. With SafeSurf, you can quickly identify suspicious websites and protect yourself from phishing attacks.
 Features
 These are the features provided by Camillo to its users.
